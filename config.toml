@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "j0sh.us"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Josh's Personal Blog"
 theme = "cupper-hugo-theme"
 
 [taxonomies]
